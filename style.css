@@ -52,7 +52,7 @@ body {
     margin-bottom: 15px;
 }
 
-.card {
+.card p {
     color: var(--light-grey);
     font-size: 15px;
     line-height: 24px;
